@@ -6,10 +6,16 @@ TensorFlowで学習させたモデルを使用し、コースの白線を越え�
 
 ## 構成 (Architecture)
 ### ハードウェア (Hardware)
+
 ・制御ユニット: Raspberry Pi 4 Model B 
+
 ・車体: PiCar-4wd 
+
 ・その他: モータードライバー等を含むHAT , Webカメラ 
 
+
 ### ソフトウェア & API (Software & API)
+
 ・機械学習フレームワーク: TensorFlow 
+
 ・車両制御API: SunFounder PiCar-4WD API
