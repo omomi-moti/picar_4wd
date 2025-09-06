@@ -1,1 +1,1 @@
-# picar_4wd
+#自動走行AIラジコンカー (AI-Powered Self-Driving RC Car)
