@@ -56,7 +56,7 @@ TensorFlowで学習させたモデルを使用し、コースの白線を越え�
 ・削除した画像の例: カーブ手前の画像は、以前は「Straight」と判断していましたが、これがカーブ走行中の誤認識の原因となっていたため、データセットから意図的に削除しました 。
 
 ####モデル性能の比較
-![混合行列7.png]([https://github.com/omomi-moti/picar_4wd/tree/main/%E6%B7%B7%E5%90%88%E8%A1%8C%E5%88%97#:~:text=..-,%E6%B7%B7%E5%90%88%E8%A1%8C%E5%88%977.png,-%E5%88%B6%E5%BA%A6%E3%81%AE%E6%B7%B7%E5%90%88](https://github.com/omomi-moti/picar_4wd/blob/main/%E6%B7%B7%E5%90%88%E8%A1%8C%E5%88%97/%E6%B7%B7%E5%90%88%E8%A1%8C%E5%88%977.png))
+![混合行列7.png](混合行列/混合行列7.png)
 
 
 
