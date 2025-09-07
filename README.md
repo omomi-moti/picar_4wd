@@ -76,6 +76,7 @@ TensorFlowで学習させたモデルを使用し、コースの白線を越え�
 #### (2)自動走行の開始
 
 Raspberry Pi上で以下のコマンドを実行すると、自動走行が開始します
+
 python auto.py
 
 ### 2.モデルを改善する開発サイクル (for Developers)
