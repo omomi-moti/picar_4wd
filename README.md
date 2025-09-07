@@ -1,7 +1,7 @@
 # 自動走行AIラジコンカー (AI-Powered Self-Driving RC Car)
 
 ## デモ動画
-#### 1周ver
+#### [1周ver](https://youtube.com/shorts/16H95x0K_Tw?feature=share)
 
 #### 3周ver
 
