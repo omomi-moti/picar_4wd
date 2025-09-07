@@ -1,9 +1,9 @@
 # 自動走行AIラジコンカー (AI-Powered Self-Driving RC Car)
 
 ## デモ動画
-#### [1周ver](https://youtube.com/shorts/16H95x0K_Tw?feature=share)
+#### [1周verのデモ動画はこちらから](https://youtube.com/shorts/16H95x0K_Tw?feature=share)
 
-#### 3周ver
+#### [3周verのデモ動画はこちらから](https://youtube.com/shorts/wJ3uO23QkwY)
 
 ## 概要 (Overview)
 本プロジェクトは、自分たちで作成したAIモデルを用いてラジコンカーをコース内で自動走行させることを目的としています 。1年生の時にモデル作成までで断念した経験から、今回は自動走行を最後まで完成させることを目標に再挑戦しました 。
